@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Udaykumarm356@gmail.com**
 
-- 📄 Know about my experiences [I’ve 4 plus for experience in MERan stack, interested in creating responsive web pages.](I’ve 4 plus for experience in MERan stack, interested in creating responsive web pages.)
+- 📄 Know about my experiences [I’ve 4 plus for experience in MERN stack, interested in creating responsive web pages.]
 
 - ⚡ Fun fact **Bugs are more dangerous than smoking cigarettes 🤣🥲**
 
