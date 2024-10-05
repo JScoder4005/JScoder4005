@@ -34,3 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jscoder4005&" alt="jscoder4005" /></p>
 
+[![An image of @jscoder4005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jscoder4005)](https://holopin.io/@jscoder4005)
