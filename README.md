@@ -1,5 +1,5 @@
 -<h1 align="center">Hi 👋, I'm Uday…. :)</h1>
-<h3 align="center">A passionate full stacks MERN developer from India</h3>
+<h3 align="center">A passionate full stack MERN developer from India <3 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jscoder4005&label=Profile%20views&color=0e75b6&style=flat" alt="jscoder4005" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Creating Real estate project using MERN stack using tailwind as css framework.**
 
-- 🌱 I’m currently learning **AWS, DevOps , terraform, kubernetes**
+- 🌱 I’m currently learning **AWS, DevOps , terraform, kubernetes, nextjs**
 
 - 💬 Ask me about **MERN stack**
 
