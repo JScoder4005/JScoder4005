@@ -35,3 +35,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jscoder4005&" alt="jscoder4005" /></p>
 
 [![An image of @jscoder4005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jscoder4005)](https://holopin.io/@jscoder4005)
+
+
+<a href="https://app.daily.dev/uday_trippy"><img src="https://api.daily.dev/devcards/v2/CIzRsLJEaAMEXer23vEFk.png?r=yf9" width="356" alt="Uday kumar M's Dev Card"/></a>
