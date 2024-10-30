@@ -37,4 +37,4 @@
 [![An image of @jscoder4005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jscoder4005)](https://holopin.io/@jscoder4005)
 
 
-<a href="https://app.daily.dev/uday_trippy"><img src="https://api.daily.dev/devcards/v2/CIzRsLJEaAMEXer23vEFk.png?r=yf9" width="356" alt="Uday kumar M's Dev Card"/></a>
+<a href="https://app.daily.dev/uday_trippy"><img src="https://api.daily.dev/devcards/v2/CIzRsLJEaAMEXer23vEFk.png?type=wide&r=m7q" width="652" alt="Uday kumar M's Dev Card"/></a>
