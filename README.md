@@ -1,4 +1,4 @@
--<h1 align="center">Hi 👋, I'm Uday…. :)</h1>
+-<h1 align="center">Hi 👋, I'm Uday …. :)</h1>
 <h3 align="center">A passionate full stack MERN developer from India <3 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jscoder4005&label=Profile%20views&color=0e75b6&style=flat" alt="jscoder4005" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/m_udaykumar4005" target="blank"><img src="https://img.shields.io/twitter/follow/m_udaykumar4005?logo=twitter&style=for-the-badge" alt="m_udaykumar4005" /></a> </p>
 
-- 🔭 I’m currently working on **Creating Real estate project using MERN stack using tailwind as css framework.**
+- 🔭 I’m currently working on **Creating Real Google drive clone using MERN stack using tailwind as css framework.**
 
 - 🌱 I’m currently learning **AWS, DevOps , terraform, kubernetes, nextjs**
 
