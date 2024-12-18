@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/m_udaykumar4005" target="blank"><img src="https://img.shields.io/twitter/follow/m_udaykumar4005?logo=twitter&style=for-the-badge" alt="m_udaykumar4005" /></a> </p>
 
-- 🔭 I’m currently working on **Creating Real Google drive clone using MERN stack using tailwind as css framework.**
+- 🔭 I’m currently working on **Creating Google drive clone using NextJs and appwrite as a backend and tailwind as css framework.**
 
 - 🌱 I’m currently learning **AWS, DevOps , terraform, kubernetes, nextjs**
 
