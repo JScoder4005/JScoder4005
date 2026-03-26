@@ -1,41 +1,112 @@
--<h1 align="center">Hi 👋, I'm Uday :P</h1>
-<h3 align="center">A passionate full stack MERN developer from India <3 </h3>
+<h1 align="center">Hey, I'm Uday Kumar M 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jscoder4005&label=Profile%20views&color=0e75b6&style=flat" alt="jscoder4005" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jscoder4005" alt="jscoder4005" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/m_udaykumar4005" target="blank"><img src="https://img.shields.io/twitter/follow/m_udaykumar4005?logo=twitter&style=for-the-badge" alt="m_udaykumar4005" /></a> </p>
-
-- 🔭 I’m currently working on **Creating Google drive clone using NextJs and appwrite as a backend and tailwind as css framework.**
-
-- 🌱 I’m currently learning **AWS, DevOps , terraform, kubernetes, nextjs, react native**
-
-- 💬 Ask me about **MERN stack**
-
-- 📫 How to reach me **Udaykumarm356@gmail.com**
-
-- 📄 Know about my experiences [I’ve 4 plus for experience in MERN stack, interested in creating responsive web pages.]
-
-- ⚡ Fun fact **Bugs are more dangerous than smoking cigarettes 🤣🥲**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/m_udaykumar4005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_udaykumar4005" height="30" width="40" /></a>
-<a href="https://instagram.com/nameis_uday07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nameis_uday07" height="30" width="40" /></a>
+<p align="center">
+  <b>Full Stack Developer · Content Creator · Builder</b><br/>
+  Bangalore, India 🇮🇳 · KTM 390 Adventure rider 🏍️ · Insta360 X3 shooter 🎬
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://twitter.com/m_udaykumar4005"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://instagram.com/nameis_uday07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linktr.ee/uday_404"><img src="https://img.shields.io/badge/Linktree-%2339E09B.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jscoder4005&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jscoder4005&show_icons=true&locale=en&layout=compact" alt="jscoder4005" /></p>
+---
 
-https://linktr.ee/uday_404
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jscoder4005&show_icons=true&locale=en" alt="jscoder4005" /></p>
+## 🚀 What I'm building
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jscoder4005&" alt="jscoder4005" /></p>
+### 🎬 ContentPilot *(in progress)*
+> AI-powered content automation dashboard for creators who code
 
-[![An image of @jscoder4005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jscoder4005)](https://holopin.io/@jscoder4005)
+- Upload ride video → Claude AI generates caption + script
+- One click publish to YouTube + Instagram
+- Schedule posts with queue management
+- **Stack:** Next.js 14 · Claude API · YouTube API · Meta Graph API · Supabase · Three.js · Vercel
 
+### 🧠 AI Content Creator Toolkit *(open source)*
+> Automate your learning and content workflow with Claude AI + Obsidian + n8n
 
-<a href="https://app.daily.dev/uday_trippy"><img src="https://api.daily.dev/devcards/v2/CIzRsLJEaAMEXer23vEFk.png?type=wide&r=m7q" width="652" alt="Uday kumar M's Dev Card"/></a>
+- Python script that sets up your entire Obsidian vault in seconds
+- Claude skill that remembers your system design learning journey
+- n8n workflows for automated TIL notes
+- **[⭐ Star it on GitHub](https://github.com/JScoder4005/ai-content-creator-toolkit)**
+
+### 🔐 MARDA_C2 *(cybersecurity)*
+> Command & Control framework with Next.js + TypeScript frontend
+
+---
+
+## 📚 Currently learning
+
+I'm learning **System Design** by designing ContentPilot from scratch.
+Documenting everything in public — architecture diagrams, ADRs, and concept notes.
+
+| Phase | Topic | Status |
+|-------|-------|--------|
+| 1 | Foundations (HTTP, DNS, CDN) | ✅ Done |
+| 2 | API layer (rate limiting, auth) | 🔄 In progress |
+| 3 | Data layer (PostgreSQL, indexing) | ⏳ Pending |
+| 4 | Async & queues | ⏳ Pending |
+| 5 | Scalability & resilience | ⏳ Pending |
+
+**Notes are public:** [ai-content-creator-toolkit/vault](https://github.com/JScoder4005/ai-content-creator-toolkit/tree/main/vault)
+
+---
+
+## 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jscoder4005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jscoder4005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jscoder4005&theme=tokyonight&hide_border=true" alt="Streak stats"/>
+</p>
+
+---
+
+## ✍️ Latest system design notes
+
+<!-- These update automatically as I push new notes -->
+- [HTTP Request and Response — cookies, JWT, security headers](https://github.com/JScoder4005/ai-content-creator-toolkit/blob/main/vault/02%20-%20System%20Design/Concepts/HTTP%20Request%20and%20Response.md)
+- [DNS Resolution — how contentpilot.com finds its server](https://github.com/JScoder4005/ai-content-creator-toolkit/blob/main/vault/02%20-%20System%20Design/Concepts/DNS%20Resolution.md)
+- [CDN and Edge Networks — why Bangalore gets Mumbai latency](https://github.com/JScoder4005/ai-content-creator-toolkit/blob/main/vault/02%20-%20System%20Design/Concepts/CDN%20and%20Edge%20Networks.md)
+- [Client-Server Model — the foundation of everything](https://github.com/JScoder4005/ai-content-creator-toolkit/blob/main/vault/02%20-%20System%20Design/Concepts/Client-Server%20Model.md)
+
+---
+
+## 📬 Get in touch
+
+- 📧 Udaykumarm356@gmail.com
+- 🐦 [@M_UDAYKUMAR4005](https://twitter.com/m_udaykumar4005)
+- 📸 [@nameis_uday07](https://instagram.com/nameis_uday07)
+- 🌐 [linktr.ee/uday_404](https://linktr.ee/uday_404)
+
+---
+
+<p align="center">
+  <i>⚡ Fun fact: Bugs are more dangerous than smoking cigarettes 🤣🥲</i>
+</p>
+
+[![Holopin badges](https://holopin.me/jscoder4005)](https://holopin.io/@jscoder4005)
