@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Uday%20Kumar%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Bengaluru,%20India&descAlignY=58&descAlign=50" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Uday%20Kumar%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20·%20Bengaluru,%20India&descAlignY=58&descAlign=50" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer+%E2%80%A2+MERN+%2B+Next.js;Shipping+from+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3;Building+AI+tooling%2C+Linux+apps%2C+and+clean+UIs;Learning+K8s+%2B+Terraform+%2B+Rust" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Senior+Software+Engineer+%E2%80%A2+Full+Stack;MERN+%2B+Next.js+%2B+Python;Shipping+from+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3;Building+AI+tooling%2C+Linux+apps%2C+and+clean+UIs;Learning+K8s+%2B+Terraform+%2B+Rust" alt="typing" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ```ts
 const uday = {
-  role:        "Full Stack Developer",
+  role:        "Senior Software Engineer",
   location:    "Bengaluru, India 🇮🇳",
   stack:       ["TypeScript", "React", "Next.js 16", "Node", "MongoDB", "Python"],
   nowOn:       "portfolio-2026 · AI content toolkit · CMF Buds Linux app",
