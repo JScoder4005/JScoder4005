@@ -21,7 +21,7 @@ const uday = {
   role:        "Senior Software Engineer",
   location:    "Bengaluru, India 🇮🇳",
   stack:       ["TypeScript", "React", "Next.js 16", "Node", "MongoDB", "Python"],
-  nowOn:       "portfolio-2026 · AI content toolkit · CMF Buds Linux app",
+  nowOn:       "OrganizedByClar shop · Bijli Assist · luffy Pi home server",
   learning:    ["Kubernetes", "Terraform", "Rust", "React Native"],
   askMeAbout:  "MERN · Next.js RSC · Docker · DX tooling",
   funFact:     "Bugs are more dangerous than smoking 🤣",
