@@ -100,17 +100,13 @@ const uday = {
 ### 📊 GitHub rhythm
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JScoder4005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=38BDF8&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JScoder4005&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JScoder4005&theme=tokyonight" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=JScoder4005&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JScoder4005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=10" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JScoder4005&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JScoder4005&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JScoder4005&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 <p align="center">
